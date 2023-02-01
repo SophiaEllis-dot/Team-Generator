@@ -38,7 +38,6 @@ function App() {
         }
       });
   }
-  // OOP Functions
 
   function makeManager() {
     inquirer
